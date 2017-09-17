@@ -25,6 +25,7 @@ Depois abra um novo prompt de comando e execute o cliente TCP.
 python client_tcp.py 
 ```
 Entre com mensagens no cliente e observe as mensagens chegando no servidor, para sair pressione CTRL+X. Observe que apenas um cliente pode se conectar ao servidor por vez.
+Mesma coisa para o exemplo com Thread, porém conecte mais de um cliente ao mesmo tempo, para visualizar o funcionamento da thread.
 
 ## Autor
 
