@@ -2,7 +2,7 @@
 Utilização da biblioteca socket para realizar a comunicação entre processos via socket.
 
 ## Pré-requisitos
-Para esse exemplo funcionar é necessário o uso do Python 2.7.
+Para esse exemplo funcionar é necessário o uso do Python 3.
 
 ## Executando o exemplo UDP
 Primeiramente abra um prompt de comando e execute o servidor UDP.

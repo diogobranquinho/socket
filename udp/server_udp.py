@@ -10,5 +10,5 @@ orig = (HOST, PORT)
 udp.bind(orig)
 while True:
     msg, cliente = udp.recvfrom(1024)
-    print cliente, msg
+    print (cliente, msg)
 udp.close()
